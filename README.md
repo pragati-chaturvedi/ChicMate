@@ -44,16 +44,16 @@ Pre-trained Model: Feature embeddings extracted using CNN models like ResNet.
 ### Framework: 
 React Native with Expo
 ### Screens Developed:
-#### * Home Screen:
+* #### Home Screen:
   Central navigation to Wardrobe and Recommendation screens.
-#### * Wardrobe Management:
+* #### Wardrobe Management:
   Add/Delete clothing items using Expo Image Picker.
   Display wardrobe in a grid view.
-#### * Recommendation Screen:
+* #### Recommendation Screen:
   Apply filters (e.g., weather, occasion) for personalized suggestions.
   Button to fetch recommendations.
   Design Highlights:
-#### * Clean and responsive layout using react-native-paper.
+* #### Clean and responsive layout using react-native-paper.
   Dynamic navigation enabled with Expo Router.
 
 ## 7. Pending Components:
