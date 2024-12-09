@@ -74,7 +74,7 @@ React Native with Expo
     * Evaluation with precision, recall, and F1 metrics.
     * Conducting A/B testing against baseline VGG19 models.
 
-##9. Technologies Used
+## 9. Technologies Used
 * Programming Language: Python
 * Deep Learning Framework: TensorFlow/PyTorch
 * Frontend: React Native with Expo
