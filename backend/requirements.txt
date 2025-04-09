@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+Pillow
+torch
+transformers
+google-genai
+firebase-admin
+requests
